@@ -3,8 +3,6 @@
 SIUU-RUDP is a C++ implementation of a **reliable file transfer protocol built on top of UDP**.  
 The project demonstrates how reliability, ordering, and data integrity can be implemented at the application layer without relying on TCP.
 
-The system is designed to be simple, extensible, and demonstrable using multiple terminals, making it suitable for Computer Networks coursework and interviews.
-
 ---
 
 ## Motivation
